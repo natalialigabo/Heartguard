@@ -1,0 +1,23 @@
+# --- Python ---
+__pycache__/
+*.pyc
+venv/
+.env
+.ipynb_checkpoints/
+
+# --- Android Studio ---
+*.iml
+.gradle/
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# --- Dados Grandes (Opcional) ---
+# Se os arquivos .h5 forem maiores que 100MB, descomente a linha abaixo:
+# *.h5
