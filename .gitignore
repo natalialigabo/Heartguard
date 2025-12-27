@@ -18,6 +18,3 @@ venv/
 .cxx
 local.properties
 
-# --- Dados Grandes (Opcional) ---
-# Se os arquivos .h5 forem maiores que 100MB, descomente a linha abaixo:
-# *.h5
